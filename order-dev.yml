@@ -20,7 +20,7 @@ spring:
 env:
   dev
 name:
-  bbb
+  bobo
 user:
   username: aaaa
   age: 211
