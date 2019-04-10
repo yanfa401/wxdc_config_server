@@ -22,6 +22,6 @@ env:
 name:
   ZHANGSAN
 user:
-  username: aaa
+  username: zzz
   age: 18
   sex: F
