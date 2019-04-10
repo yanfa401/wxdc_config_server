@@ -1,25 +1,25 @@
-server:
-  port: 9002
+# server:
+#   port: 9002
 
-spring:
-  application:
-    name: order
+# spring:
+#   application:
+#     name: order
     
-  redis:
-    host: 192.168.25.121
-    port: 6379
-    password: 
+#   redis:
+#     host: 192.168.25.121
+#     port: 6379
+#     password: 
     
-  datasource:
-    url: jdbc:mysql://localhost:60298/wxdc?characterEncoding=utf-8&useSSL=false&serverTimezone=GMT%2B8
-    username: root
-    password: 
+#   datasource:
+#     url: jdbc:mysql://localhost:60298/wxdc?characterEncoding=utf-8&useSSL=false&serverTimezone=GMT%2B8
+#     username: root
+#     password: 
     
     
-  jpa:
-    show-sql: false  
+#   jpa:
+#     show-sql: false  
     
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:8002/eureka/, http://localhost:8001/eureka/
+# eureka:
+#   client:
+#     service-url:
+#       defaultZone: http://localhost:8002/eureka/,http://localhost:8001/eureka/
