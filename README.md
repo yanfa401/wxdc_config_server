@@ -1,0 +1,3 @@
+# wxdc_config_server
+SpringCloud配置中心Server
+测试用，从Git拉取对应环境的配置文件
