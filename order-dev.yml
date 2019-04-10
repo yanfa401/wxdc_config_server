@@ -22,6 +22,6 @@ env:
 name:
   ZHANGSAN
 user:
-  username: aaa
-  age: 18
-  sex: F
+  username: asdada
+  age: 111
+  sex: Fasda
