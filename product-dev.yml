@@ -1,0 +1,25 @@
+server:
+  port: 9001
+spring:
+  application:
+    name: product
+  jpa:
+    show-sql: false
+  datasource:
+    url: jdbc:mysql://localhost:60298/wxdc?characterEncoding=utf-8&useSSL=false&serverTimezone=GMT%2B8
+    username: root
+    password: 
+  redis:
+    host: 192.168.25.121
+    port: 6379
+    password: 
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: admin
+    password: admin
+eureka:
+  client:
+    service-url: 
+     defaultZone: http://localhost:8001/eureka/,http://localhost:8002/eureka/
+ 
