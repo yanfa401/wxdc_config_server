@@ -12,3 +12,5 @@ zuul:
     #myProduct:
       #path: /xieleiProduct/**
       #serviceId: product
+
+name: xielei
