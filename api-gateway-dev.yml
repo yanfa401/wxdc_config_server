@@ -7,7 +7,7 @@ zuul:
   #- /**/productInfo/getProductListByIds
   routes:
           #简便写法
-    product: /xielei/**
+    product: /xielei222/**
     #指定自定义路由规则：myProduct名字可以任意改，这个是路由规则的名字；具体映射关系为/xieleiProduct/**映射微服务product
     #myProduct:
       #path: /xieleiProduct/**
