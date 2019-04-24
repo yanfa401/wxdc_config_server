@@ -1,7 +1,6 @@
 #自定义zuul路由的配置
 zuul:
   sensitive-headers:
-  - 
   #ignored-patterns:
   #- /**/productInfo/findUpAll
   #- /**/productInfo/getProductListByIds
