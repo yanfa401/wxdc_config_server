@@ -13,3 +13,8 @@ zuul:
       #serviceId: product
 
 name: xielei
+spring:
+  redis:
+    host: 192.168.25.121
+    password: ''
+    port: 6379  
